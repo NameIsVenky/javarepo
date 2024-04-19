@@ -6,6 +6,8 @@ public class Demo {
 		// TODO Auto-generated method stub
 		System.out.println("Welcome to Java ");
 		System.out.println("Push Code into Github");
+		System.out.println("Push Code into Github");
+		System.out.println("Push Code into Github");
 
 	}
 
